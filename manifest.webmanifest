@@ -1,0 +1,19 @@
+{
+  "name": "记忆训练系统 V1",
+  "short_name": "记忆训练",
+  "description": "手机优先的记忆方法学习、训练、巩固与挑战系统。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f9fc",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
